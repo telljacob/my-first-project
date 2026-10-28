@@ -8,11 +8,11 @@ The Coding Club website is a landing page for parents and children looking for a
 2. About us section
 3. Sign up form
 4. Contact section
-5. 
+5. Footer
 
 ## How to View the Project
 - [View the deployed website](https://username.github.io/codingclub/)
 
-## Credits
+### Credits
 - The code for the social media icon animations was taken from [website name](https://username2.github.io/projectname/)
 - Thanks to my mentor Rudy Matheson for his patience and support as I built out this project.
